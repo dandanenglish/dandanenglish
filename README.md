@@ -1,7 +1,5 @@
 # 👋 欢迎来到旦旦英语的GitHub主页
 
-![旦旦英语Logo](https://via.placeholder.com/150)  <!-- 请替换为实际Logo链接 -->
-
 ## 🌟 关于旦旦英语
 
 旦旦英语是一款专为程序员打造的英语学习与面试准备工具，旨在帮助程序员提升英文面试能力和职场英语水平。我们希望通过这款产品，让每一位程序员都能自信应对英文面试，轻松迈向国际化职业舞台。
@@ -32,8 +30,8 @@
 
 ## 📫 联系方式
 
-- **邮箱**：contact@dandanenglish.com
-- **作者GitHub**：[裴永鹏](https://github.com/dandanenglish)
+- **邮箱**：pyptsguas@163.com
+- **作者GitHub**：[peiYP](https://github.com/change-everything)
 
 ## 💬 我们的愿景
 
